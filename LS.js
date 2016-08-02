@@ -839,6 +839,11 @@ var $, LScript;
     //  Fusion Tree
     //  AA tree
     //  2–3 tree
+    //  Graph
+
+    //  Path finding
+    //  Sorting
+    //  Pattern matching
 
     $.fn = LScript.fn = LightScript.prototype;
 
